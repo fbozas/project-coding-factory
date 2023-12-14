@@ -1,0 +1,239 @@
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.AssemblyInfoInputs.cache
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.AssemblyInfo.cs
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.csproj.CoreCompileInputs.cache
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\appsettings.Development.json
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\appsettings.json
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.exe
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.deps.json
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.runtimeconfig.json
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.runtimeconfig.dev.json
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\ref\MoviesAPI.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.pdb
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\staticwebassets\MoviesAPI.StaticWebAssets.Manifest.cache
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\staticwebassets\MoviesAPI.StaticWebAssets.xml
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\scopedcss\bundle\MoviesAPI.styles.css
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.RazorTargetAssemblyInfo.cache
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.csproj.CopyComplete
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\ref\MoviesAPI.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.pdb
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.genruntimeconfig.cache
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.csproj.AssemblyReference.cache
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Humanizer.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\AutoMapper.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Azure.Core.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Azure.Storage.Common.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.IO.Hashing.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Memory.Data.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\NetTopologySuite.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\NetTopologySuite.IO.SqlServerBytes.dll
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\obj\Debug\net5.0\EFCoreSqlServerNetTopologySuite.cs
+F:\Programming Tutorials\1.Δουλειά\Courses\Building Applications with Angular 11 and ASP.NET Core 5\5. Introduction to ASP.NET Core\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\appsettings.Development.json
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\appsettings.json
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.exe
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.deps.json
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.runtimeconfig.json
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.runtimeconfig.dev.json
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\ref\MoviesAPI.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.pdb
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\AutoMapper.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Azure.Core.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Azure.Storage.Common.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Humanizer.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\NetTopologySuite.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\NetTopologySuite.IO.SqlServerBytes.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.IO.Hashing.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Memory.Data.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.csproj.AssemblyReference.cache
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.AssemblyInfoInputs.cache
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.AssemblyInfo.cs
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.csproj.CoreCompileInputs.cache
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\EFCoreSqlServerNetTopologySuite.cs
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\staticwebassets\MoviesAPI.StaticWebAssets.Manifest.cache
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\staticwebassets\MoviesAPI.StaticWebAssets.xml
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\scopedcss\bundle\MoviesAPI.styles.css
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.RazorTargetAssemblyInfo.cache
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.csproj.CopyComplete
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\ref\MoviesAPI.dll
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.pdb
+F:\Programming Tutorials\Coding Factory\0.Basic Pdf Documents\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.genruntimeconfig.cache
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.StaticWebAssets.xml
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.exe
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.deps.json
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.runtimeconfig.json
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.runtimeconfig.dev.json
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\MoviesAPI.pdb
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Azure.Storage.Common.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\NetTopologySuite.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.IO.Hashing.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.csproj.AssemblyReference.cache
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.AssemblyInfoInputs.cache
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.AssemblyInfo.cs
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\scopedcss\bundle\MoviesAPI.styles.css
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\staticwebassets\MoviesAPI.StaticWebAssets.Manifest.cache
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\staticwebassets\MoviesAPI.StaticWebAssets.Pack.cache
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\staticwebassets\msbuild.MoviesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\staticwebassets\msbuild.build.MoviesAPI.props
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MoviesAPI.props
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MoviesAPI.props
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.csproj.CopyComplete
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\refint\MoviesAPI.dll
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.pdb
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\MoviesAPI.genruntimeconfig.cache
+C:\Users\user.DESKTOP-UHUV6UP.001\Desktop\project\MoviesAPI\MoviesAPI\obj\Debug\net5.0\ref\MoviesAPI.dll
