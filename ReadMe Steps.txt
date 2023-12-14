@@ -1,15 +1,19 @@
-Step 1
+Step 1 (Database)
 	Load the backup
 		Open Sql Server management studio. Right click on databases. Import the backup (MoviesAPI.bak)
-Step 2
+Step 2 (Frontend)
+	Clone the project from this link https://github.com/fbozas/coding-factory-project-frontend.git
+
 	Due to big size I deleted node_modules folder. So type
 		npm install on cmd
-	Run backend 
-		Go to MoviesAPI folder. Open the solution with visual studio and click the play button (start with debuging) (there is a basic swagger documentation) 
 
-Step 3
 	Run frontend
 		Open angular-movies folder with visual studio code. Run the app with ng serve command
+
+Step 3 (Backend)
+	Clone the project from this link https://github.com/fbozas/project-coding-factory.git
+	Run backend 
+		Go to MoviesAPI folder. Open the solution with visual studio and click the play button (start with debuging) (there is a basic swagger documentation) 
 
 App features
 	This app is a movie management system. On home page you can see some movies which are already played on cinemas (theaters) and feature releases. 
